@@ -1,0 +1,35 @@
+Round 1
+Strategy                    No of games      Ending Balance
+Even Wager   				 10               900 
+Martingale System   		 10               1100 
+Reverse Martingale System    10               500 
+
+
+Round 2
+Strategy                    No of games      Ending Balance
+Even Wager   				 10               500 
+Martingale System   		 10               1000 
+Reverse Martingale System    10               300 
+
+
+Round 3
+Strategy                    No of games      Ending Balance
+Even Wager   				 10               700 
+Martingale System   		 10               900 
+Reverse Martingale System    10               400 
+
+
+Round 4
+Strategy                    No of games      Ending Balance
+Even Wager   				 10               700 
+Martingale System   		 9               0 
+Reverse Martingale System    10               500 
+
+
+Round 5
+Strategy                    No of games      Ending Balance
+Even Wager   				 10               1100 
+Martingale System   		 10               1300 
+Reverse Martingale System    10               600 
+
+
